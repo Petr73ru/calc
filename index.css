@@ -1,0 +1,13 @@
+item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 60px;
+  color: #fff;
+  background-color: #000;
+  margin: 8px;
+}
+item:hover {
+  cursor: pointer;
+}
